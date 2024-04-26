@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**Terminator-True/Terminator-True** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola! 👋 Soy Joel 💻
+Mi nombre es Joel Farell Cabrera , tengo 22 años y programar es mi pasión!
+## 🛠 Mi Stack 
 
-Here are some ideas to get you started:
+![](https://img.shields.io/badge/laravel-white?style=for-the-badge&logo=laravel&logoColor=red)
+![](https://img.shields.io/badge/vue-white?style=for-the-badge&logo=vue.js&logoColor=8CFF59)
+![](https://img.shields.io/badge/Tailwind-white?style=for-the-badge&logo=tailwindcss&logoColor=blue)
+![](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.joelfarell.me/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-farell-cabrera/)
+[![youtube](https://img.shields.io/badge/youtube-FC2D00?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCq1IkQMejvGt10KG1KPofKQ)
+
