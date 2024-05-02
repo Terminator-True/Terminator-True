@@ -1,6 +1,6 @@
 
 # Hola! 👋 Soy Joel 💻
-Mi nombre es Joel Farell Cabrera , tengo 22 años y programar es mi pasión!
+Mi nombre es Joel Farell Cabrera , tengo 22 años y programar es mi pasión. Soy una persona responsable, trabajadora y con muchas ganas de seguir creciendo en el ámbito laboral. Y nunca digo que no a un buen reto!!
 ## 🛠 Mi Stack 
 
 ![](https://img.shields.io/badge/laravel-535353?style=for-the-badge&logo=laravel&logoColor=red)
