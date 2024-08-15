@@ -11,5 +11,5 @@ Mi nombre es Joel Farell Cabrera , tengo 22 años y programar es mi pasión. Soy
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.joelfarell.me/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-farell-cabrera/)
-[![dev.to]([https://img.shields.io/badge/youtube-FC2D00?style=for-the-badge&logo=youtube&logoColor=white](https://img.shields.io/badge/My%20Blog-000000?style=for-the-badge&logo=devdotto&logoColor=white))](https://dev.to/terminator_true)
+[![MyBlog](https://img.shields.io/badge/My%20Blog-000000?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/terminator_true)
 
