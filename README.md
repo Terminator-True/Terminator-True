@@ -14,6 +14,9 @@ Actualmente busco un entorno técnico saludable, con foco en calidad, buenas pr�
 ![](https://img.shields.io/badge/vue-535353?style=for-the-badge&logo=vue.js&logoColor=8CFF59)
 ![](https://img.shields.io/badge/Tailwind-535353?style=for-the-badge&logo=tailwindcss&logoColor=blue)
 ![](https://img.shields.io/badge/python-535353?style=for-the-badge&logo=python&logoColor=blue)
+![](https://img.shields.io/badge/nodedotjs-535353?style=for-the-badge&logo=python&logoColor=green)
+![](https://img.shields.io/badge/express-535353?style=for-the-badge&logo=python&logoColor=blue)
+
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-farell-cabrera/)
